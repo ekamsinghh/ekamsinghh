@@ -83,36 +83,6 @@ Outside of building software, I enjoy competitive programming and problem solvin
 
 ---
 
-## 🔨 What I'm Building
-
-### ⚙️ Agentic Workflow Engine
-
-I'm currently building a workflow execution engine focused on making **agentic systems reliable rather than simply intelligent**.
-
-The system is built around:
-
-`Graph Execution` → `State Management` → `Durable Checkpointing` → `Crash Recovery` → `Tool Execution` → `LLM Integration` → `Observability`
-
-The goal is to handle real-world failures such as a process crashing halfway through a workflow without corrupting state or accidentally repeating side effects.
-
-**Current stack**
-
-`Python` · `AsyncIO` · `Pydantic` · `SQLite` · `OpenAI SDK` · `FAISS` · `OpenTelemetry`
-
----
-
-### 📝 PaperSync
-
-A real-time collaborative document editor designed around the idea that a document should behave more like a **shared workspace than a simple text editor**.
-
-Built with:
-
-`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `Convex` · `Liveblocks` · `Clerk`
-
-Includes rich-text editing, tables, checklists, templates, undo/redo, comments, mentions, cursor tracking, organization workspaces and multi-format export.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -163,24 +133,6 @@ Includes rich-text editing, tables, checklists, templates, undo/redo, comments, 
 * **Pupil Codeforces** — Max Rating **1230**
 * **Semi-Finalist — Flipkart GRID 8.0**
 * **Ex-Software Engineer Intern — Coding Pandas**
-
----
-
-## 🧭 Currently Exploring
-
-```text
-Agentic Systems
-      │
-      ├── Reliable Workflow Execution
-      ├── State & Checkpointing
-      ├── Crash Recovery
-      ├── Tool Calling
-      ├── LLM Orchestration
-      ├── Semantic Caching
-      └── Observability
-```
-
-I'm especially interested in **how we move from demos that work to systems that can be trusted**.
 
 ---
 
