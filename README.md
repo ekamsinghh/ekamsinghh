@@ -1,173 +1,209 @@
-# 👋 Hi, I'm Ekam Singh
+# 👋 Hey, I'm Ekam Singh
 
-### 💻 Full Stack Developer | AI & LLM Enthusiast
+## Software Engineer
 
 <p align="center">
-  <a href="https://github.com/ekamsinghh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-Powered+Applications;Exploring+LLMs+%26+Agentic+Systems;Always+Learning+Something+New" alt="Typing SVG" />
-  </a>
+  Building thoughtful products across the <b>frontend, backend, and intelligent systems</b>.
 </p>
 
 <p align="center">
   <a href="https://github.com/ekamsinghh">
-    <img src="https://komarev.com/ghpvc/?username=ekamsinghh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/ekamsinghh">
-    <img src="https://img.shields.io/github/followers/ekamsinghh?label=Followers&style=flat" alt="GitHub Followers"/>
+  <a href="https://linkedin.com/in/ekamsinghh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ekamsinghh24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-* 🎓 Computer Science & Engineering student at **IIIT Ranchi**
-* 💻 Passionate about **Full Stack Development**
-* 🤖 Currently exploring **LLMs, AI Agents & Agentic Workflow Systems**
-* 🧠 Interested in **Distributed Systems, Backend Engineering & System Design**
-* ⚡ I enjoy turning ideas into working products
-* 🔍 Currently building and experimenting with my own **Agentic Workflow Engine**
+I'm a Computer Science student at **IIIT Ranchi** who enjoys understanding how software works from the interface all the way down to the systems behind it.
+
+My experience spans both **frontend and backend engineering**, from building responsive interfaces and collaborative applications to designing APIs, authentication systems, databases, and asynchronous workflows.
+
+I'm particularly interested in the intersection of **software engineering and AI** — currently exploring how reliable, stateful and fault-tolerant systems can be built for agentic workflows.
+
+Outside of building software, I enjoy competitive programming and problem solving.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ At a Glance
+
+<p align="center">
+
+|                          |                                          |
+| ------------------------ | ---------------------------------------- |
+| 🎓 **Education**         | B.Tech CSE — IIIT Ranchi                 |
+| 💼 **Experience**        | Software Engineer Intern — Coding Pandas |
+| 🧩 **Problem Solving**   | 800+ problems solved                     |
+| ⭐ **CodeChef**           | 3★ · Max Rating 1605                     |
+| 🏅 **Flipkart GRID 8.0** | Semi-Finalist                            |
+| 🛠️ **Focus**            | Full Stack Engineering · AI · Systems    |
+
+</p>
+
+---
+
+## 🛠️ Engineering Stack
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux" />
 </p>
 
-### Backend & Databases
+### Backend & APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Tools & Platforms
+`REST APIs` · `JWT Authentication` · `MVC` · `Microservices` · `RabbitMQ`
+
+### Databases & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,docker,linux" />
 </p>
 
-### AI / Engineering
+### AI & Systems
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Exploring:** LLM APIs • AI Agents • RAG • Embeddings • FAISS • OpenTelemetry • Workflow Engines
+`LLM APIs` · `Agentic Workflows` · `Embeddings` · `FAISS` · `AsyncIO` · `Pydantic` · `OpenTelemetry`
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 Intellify Prep
-
-**AI-powered interview preparation platform**
-
-> A full-stack application designed to help developers prepare for technical interviews using AI.
-
-**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS • Gemini API
-
-🔗 [View Repository](https://github.com/ekamsinghh/Intellify_Prep)
-
----
-
-### 📝 Notes App
-
-**Multi-tenant SaaS Notes Application**
-
-> A full-stack notes platform with authentication, OTP-based login and a TypeScript backend.
-
-**Tech:** React • TypeScript • Node.js • Express • MongoDB • JWT
-
-🔗 [View Repository](https://github.com/ekamsinghh)
-
----
+## 🔨 What I'm Building
 
 ### ⚙️ Agentic Workflow Engine
 
-**Durable workflow execution engine for AI agents**
+I'm currently building a workflow execution engine focused on making **agentic systems reliable rather than simply intelligent**.
 
-> Building a workflow engine around graphs, state machines, durable checkpoints and crash recovery — with the goal of making long-running agentic workflows reliable.
+The system is built around:
 
-**Tech:** Python • Pydantic • SQLite • AsyncIO • OpenAI SDK • FAISS • OpenTelemetry
+`Graph Execution` → `State Management` → `Durable Checkpointing` → `Crash Recovery` → `Tool Execution` → `LLM Integration` → `Observability`
 
-🔗 [View Repository](https://github.com/ekamsinghh)
+The goal is to handle real-world failures such as a process crashing halfway through a workflow without corrupting state or accidentally repeating side effects.
 
----
+**Current stack**
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ekamsinghh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekamsinghh&layout=donut&langs_count=8&hide_border=true" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ekamsinghh&hide_border=true" />
-</p>
+`Python` · `AsyncIO` · `Pydantic` · `SQLite` · `OpenAI SDK` · `FAISS` · `OpenTelemetry`
 
 ---
 
-## 📈 Contribution Activity
+### 📝 PaperSync
+
+A real-time collaborative document editor designed around the idea that a document should behave more like a **shared workspace than a simple text editor**.
+
+Built with:
+
+`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `Convex` · `Liveblocks` · `Clerk`
+
+Includes rich-text editing, tables, checklists, templates, undo/redo, comments, mentions, cursor tracking, organization workspaces and multi-format export.
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekamsinghh&hide_border=true&area=true" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=ekamsinghh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark_dimmed" />
+
+<img height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekamsinghh&layout=donut&langs_count=7&hide_border=true&theme=github_dark_dimmed" />
+
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ekamsinghh&hide_border=true&theme=github-dark-blue" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ekamsinghh&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekamsinghh&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 💡 What I'm Currently Working On
+## 🏆 Problem Solving
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🏅 Milestones
+
+* **800+** algorithmic problems solved across LeetCode, CodeChef, Gfg and Codeforces
+* **3★ CodeChef** — Max Rating **1605**
+* **Pupil Codeforces** — Max Rating **1230**
+* **Semi-Finalist — Flipkart GRID 8.0**
+* **Ex-Software Engineer Intern — Coding Pandas**
+
+---
+
+## 🧭 Currently Exploring
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   ⚙️  Agentic Workflow Engine                │
-│                                               │
-│   ├── Graph-based execution                  │
-│   ├── Durable checkpointing                  │
-│   ├── Crash recovery                         │
-│   ├── Tool execution                         │
-│   ├── LLM integration                        │
-│   ├── Semantic caching                        │
-│   └── Observability                          │
-│                                               │
-└───────────────────────────────────────────────┘
+Agentic Systems
+      │
+      ├── Reliable Workflow Execution
+      ├── State & Checkpointing
+      ├── Crash Recovery
+      ├── Tool Calling
+      ├── LLM Orchestration
+      ├── Semantic Caching
+      └── Observability
 ```
+
+I'm especially interested in **how we move from demos that work to systems that can be trusted**.
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/ekamsinghh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ekamsinghh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="https://github.com/ekamsinghh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/ekamsinghh">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ekamsinghh24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
----
-
 <p align="center">
-  <i>💻 Build. Break. Learn. Repeat.</i>
+  <i>Build with curiosity. Engineer with intent.</i>
 </p>
