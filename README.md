@@ -113,27 +113,11 @@ Includes rich-text editing, tables, checklists, templates, undo/redo, comments, 
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=ekamsinghh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark_dimmed" />
-
-<img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekamsinghh&layout=donut&langs_count=7&hide_border=true&theme=github_dark_dimmed" />
-
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ekamsinghh&hide_border=true&theme=github-dark-blue" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekamsinghh&theme=github-compact&hide_border=true&area=true" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 ---
