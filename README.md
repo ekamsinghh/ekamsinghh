@@ -33,7 +33,7 @@ A durable execution engine for agentic workflows — graphs of nodes and edges, 
 
 `Python` `AsyncIO` `Pydantic V2` `SQLite` `FAISS` `OpenTelemetry`
 
-[→ View repo](#)
+<a href="https://github.com/ekamsinghh/Agentic-Workflow-Engine">View Repo -></a>
 
 </td>
 <td width="50%" valign="top">
@@ -45,7 +45,7 @@ My testbed for concurrent, performance-critical UI — conflict resolution, live
 
 `Next.js 15` `Liveblocks` `Convex` `Clerk`
 
-[→ View repo](#)
+<a href="https://github.com/ekamsinghh/PaperSync">View Repo -></a>
 
 </td>
 </tr>
