@@ -1,159 +1,55 @@
-# 👋 Hey, I'm Ekam Singh
+<div align="center">
 
-## Software Engineer
+# Hey, I'm Ekam 👋
 
-<p align="center">
-  Building thoughtful products across the <b>frontend, backend, and intelligent systems</b>.
-</p>
+### Software Engineer
 
-<p align="center">
-  <a href="https://github.com/ekamsinghh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ekamsinghh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ekamsinghh24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+*Building thoughtful products across the frontend, backend, and intelligent systems.*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ekamsinghh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekamsinghh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ekamsinghh24@gmail.com)
 
-## 🧑‍💻 About Me
+</div>
 
-I'm a Computer Science student at **IIIT Ranchi** who enjoys understanding how software works from the interface all the way down to the systems behind it.
+<br>
 
-My experience spans both **frontend and backend engineering**, from building responsive interfaces and collaborative applications to designing APIs, authentication systems, databases, and asynchronous workflows.
+I'm a CS student at IIIT Ranchi who likes understanding software from the interface all the way down to the systems underneath it — one week that means shipping a UI, the next it means debugging why an async job silently died. Lately I'm most interested in the gap between "an LLM that responds" and "a system you can actually trust to run unattended," which is where most of my free time goes right now.
 
-I'm particularly interested in the intersection of **software engineering and AI** — currently exploring how reliable, stateful and fault-tolerant systems can be built for agentic workflows.
+- 🔭 **Currently building** — [Agentic Workflow Engine](#), a durable execution engine for agentic systems: checkpointing, crash recovery, and idempotency, so a crashed workflow doesn't silently double-charge a user on restart
+- 🧪 **Also building** — [PaperSync](#), a real-time collaborative editor (Next.js, Liveblocks, Convex, Clerk) — my testbed for concurrent, performance-critical UI
+- 🌱 **Reading up on** — semantic caching and observability for LLM pipelines (OpenTelemetry, embeddings, FAISS)
+- 💬 **Ask me about** — fault-tolerant workflow design, or why I think most "AI agent" demos fall apart outside the happy path
+- ⚡ **Outside code** — competitive programming — mostly for the puzzle-solving high, occasionally for the rating bump
 
-Outside of building software, I enjoy competitive programming and problem solving.
+<br>
 
----
+## Stack
 
-## ⚡ At a Glance
+**Frontend** &nbsp;`React` `Next.js` `Redux` `Tailwind` `Vite`
+**Backend** &nbsp;`Node.js` `Express` `REST APIs` `JWT Auth` `Microservices` `RabbitMQ`
+**Data** &nbsp;`PostgreSQL` `MongoDB` `Redis` `SQLite`
+**AI / Systems** &nbsp;`LLM APIs` `Agentic Workflows` `AsyncIO` `Pydantic` `FAISS` `OpenTelemetry`
+**Languages** &nbsp;`C++` `Python` `C` `JavaScript` `TypeScript`
 
-<p align="center">
+<br>
 
-|                          |                                          |
-| ------------------------ | ---------------------------------------- |
-| 🎓 **Education**         | B.Tech CSE — IIIT Ranchi                 |
-| 💼 **Experience**        | Software Engineer Intern — Coding Pandas |
-| 🧩 **Problem Solving**   | 800+ problems solved                     |
-| ⭐ **CodeChef**           | 3★ · Max Rating 1605                     |
-| 🏅 **Flipkart GRID 8.0** | Semi-Finalist                            |
-| 🛠️ **Focus**            | Full Stack Engineering · AI · Systems    |
-
-</p>
-
----
-
-## 🛠️ Engineering Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux" />
-</p>
-
-### Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-`REST APIs` · `JWT Authentication` · `MVC` · `Microservices` · `RabbitMQ`
-
-### Databases & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,docker,linux" />
-</p>
-
-### AI & Systems
-
-`LLM APIs` · `Agentic Workflows` · `Embeddings` · `FAISS` · `AsyncIO` · `Pydantic` · `OpenTelemetry`
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-</p>
-<p align="center">
+<div align="center">
+  <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
+</div>
+<div align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
+</div>
 
----
+<br>
 
-## 📈 Contribution Activity
+A few things that happened along the way: a semi-final finish at **Flipkart GRID 8.0**, a stint as a Software Engineer Intern at **Coding Pandas**, and 800+ problems deep across LeetCode, CodeChef, and Codeforces — currently 3★ on CodeChef and Pupil on Codeforces.
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ekamsinghh/ekamsinghh/output/activity-graph.svg"
-    alt="Contribution Activity Graph"
-  />
-</p>
+<br>
 
----
+<div align="center">
 
-## 🏆 Problem Solving
+Best way to reach me is <a href="mailto:ekamsinghh24@gmail.com">email</a> — happy to talk about anything above, or nothing above at all.
 
-<p align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-<a href="https://codeforces.com/">
-  <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## 🏅 Milestones
-
-* **800+** algorithmic problems solved across LeetCode, CodeChef, Gfg and Codeforces
-* **3★ CodeChef** — Max Rating **1605**
-* **Pupil Codeforces** — Max Rating **1230**
-* **Semi-Finalist — Flipkart GRID 8.0**
-* **Ex-Software Engineer Intern — Coding Pandas**
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/ekamsinghh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/ekamsinghh">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:ekamsinghh24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  <i>Build with curiosity. Engineer with intent.</i>
-</p>
+</div>
